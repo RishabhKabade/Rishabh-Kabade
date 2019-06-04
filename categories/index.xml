@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hello There!</title>
-    <link>http://example.com/categories/</link>
+    <link>http://rishabhkabade.github.io/Rishabh-Kabade/categories/</link>
     <description>Recent content in Categories on Hello There!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rishabhkabade.github.io/Rishabh-Kabade/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
