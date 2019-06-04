@@ -20,13 +20,18 @@
   
   <url>
     <loc>http://example.com/blog/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-04T16:14:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://example.com/blog/a/</loc>
+    <lastmod>2019-06-04T16:14:34+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.com/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-04T16:14:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
