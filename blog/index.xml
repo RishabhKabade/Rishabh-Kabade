@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Hello There!</title>
+    <link>http://example.com/blog/</link>
+    <description>Recent content in Blogs on Hello There!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interesting articles in polymer 3D printing</title>
+      <link>http://example.com/blog/test1/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/blog/test1/</guid>
+      <description>#The process of research often involves researching content.
+I would like to share some interesting articles I came across.</description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>http://example.com/blog/test2/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/blog/test2/</guid>
+      <description>dfasdfadf</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://example.com/blog/amazon-increase-income.1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.com/blog/amazon-increase-income.1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
